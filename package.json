@@ -1,0 +1,19 @@
+{
+  "name": "pnpm-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@smithy/node-http-handler": "2.5.0"
+  },
+  "devDependencies": {
+    "serverless": "3.38.0"
+  },
+  "packageManager": "pnpm@9.1.4"
+}
