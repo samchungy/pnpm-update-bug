@@ -15,5 +15,5 @@
   "devDependencies": {
     "serverless": "3.38.0"
   },
-  "packageManager": "pnpm@9.1.4"
+  "packageManager": "pnpm@9.12.1"
 }
